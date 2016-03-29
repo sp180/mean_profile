@@ -1,0 +1,15 @@
+{
+  "name": "mean_profile",
+  "version": "1.0.0",
+  "description": "Profile Page through MEAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "express": "^4.13.4"
+  }
+}
